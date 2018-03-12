@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.navbar-brand a {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+section.quizzes, section.questions {
+  padding-top: 0 !important;
+}
+
+.tag.questions-count {
+  margin-left: 1em;
+}
+
+.panel-heading {
+  background-color: #363636;
+  min-height: 100px
+}
+
+.panel-success {
+  background-color: #00DE64;
+}
+
+.panel-warning {
+  background-color: #FFE347;
+}
+
+.questions .prop-label {
+  margin-left: 1em;
+}
+
+.question .level-tag {
+  margin-top: 1em;
+}
+
+.test {
+  font-weight: normal;
+}
